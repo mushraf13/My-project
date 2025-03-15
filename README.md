@@ -1,2 +1,3 @@
 # My-project
-My first Git Project
+My first Git Repository.
+Author - Mushraf Shah
